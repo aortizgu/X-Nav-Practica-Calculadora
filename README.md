@@ -1,4 +1,4 @@
-[Try me](https://aortizgu.github.io/X-Nav-Practica-Calculadora/index.html)
+[Try me](https://aortizgu.github.io/X-Nav-Practica-Calculadora/)
 
 -----------------------------------------------------------------------------------------------------
 
